@@ -1,1 +1,2 @@
-vcs task
+vcs task 
+some changes
